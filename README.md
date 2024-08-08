@@ -1,5 +1,7 @@
 # Regus-Ecommerce-Dashboard
 
+![WhatsApp Image 2024-08-08 at 19 28 01_59af2132](https://github.com/user-attachments/assets/c408dd6c-4866-4409-899a-1663a20c9ae2)
+
 This project showcases a comprehensive Sales Performance Dashboard built using Microsoft Power BI. The dashboard provides insights into sales data, helping to track performance, identify trends, and make data-driven decisions.
 
 Project Overview
@@ -28,3 +30,6 @@ Clone this repository to your local machine:
 Bash:
 git clone https://github.com/thatipallyabhinav12/Regus-Ecommerce-Dashboard.git
 Open the Sales.pbix file in Power BI Desktop.
+
+
+
