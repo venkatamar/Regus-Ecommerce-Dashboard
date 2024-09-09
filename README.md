@@ -17,19 +17,20 @@ Time Series Analysis: Trends in sales over time, allowing for the identification
 Data Sources
 The data used in this dashboard is hypothetical and intended for demonstration purposes. It includes:
 
-Sales transactions
-Customer information
-Product details
-Regional sales data
+    Sales transactions
+    Customer information
+    Product details
+    Regional sales data
 
-Getting Started
+Getting Started:
 To view and interact with the dashboard:
-
-Ensure you have Microsoft Power BI Desktop installed. You can download it here.
-Clone this repository to your local machine:
-Bash:
-git clone https://github.com/thatipallyabhinav12/Regus-Ecommerce-Dashboard.git
-Open the Sales.pbix file in Power BI Desktop.
+  
+    Ensure you have Microsoft Power BI Desktop installed. You can download it here.
+    
+    Clone this repository to your local machine:
+          git clone https://github.com/thatipallyabhinav12/Regus-Ecommerce-Dashboard.git
+   
+    Open the Sales.pbix file in Power BI Desktop.
 
 
 
